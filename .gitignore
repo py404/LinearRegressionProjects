@@ -5,6 +5,11 @@
 ### dotenv ###
 .env
 
+### zip and tar files ###
+*.zip
+*.tar
+*.csv
+
 ### Flask ###
 instance/*
 !instance/.gitignore
